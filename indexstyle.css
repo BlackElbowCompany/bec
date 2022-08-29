@@ -9,6 +9,19 @@
      background-color: #eeece9;
    }
    
+   a:link {
+       color: #d25833;
+   }
+   a:visited {
+       color: #d25833;
+   }
+   a:hover {
+       color: #e3937a;
+   }
+   a:active {
+       color: #ff6a3b;
+   }
+   
    h1 {
        text-align: center;
    }
@@ -25,7 +38,8 @@
    }
    
   
-   .nav p {
+.nav li {
     font-size: 35;
-   }  
-  
+    
+}  
+   
